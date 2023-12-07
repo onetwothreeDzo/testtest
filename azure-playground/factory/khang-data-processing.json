@@ -1,0 +1,9 @@
+{
+	"name": "khang-data-processing",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0b68f384-5d53-4e2e-ade8-f83e54d530f9",
+		"tenantId": "aaf55a74-fa21-4db6-8f46-5fc614635256"
+	}
+}
